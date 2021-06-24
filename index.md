@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Competition Repository
+
+This is a Repository created specifically to share the code for the programs during the competition.
+
+
+
+### 
+
 
 You can use the [editor on GitHub](https://github.com/tanishMaheshwari/Competition/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
